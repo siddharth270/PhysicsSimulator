@@ -1,5 +1,5 @@
 # PhysicsSimulator
 
-pip instaal Pygame
+pip install Pygame
 
 pip install Pymunk
